@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JabirAbdullah
+- 👀 I’m interested in Data Science and Machine Leaarning
+- 🌱 I’m currently learning BSC in statistics
+- 📫You can reach me on abdullahjabir@gmail.com
+- 😄 Pronouns: He
